@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Index" value="name:Employee_ID;datatype:int,name:Emp_firstname;datatype:string,name:Emp_lastname;datatype:string,name:Contact_no;datatype:int,name:Username;datatype:string,name:Password;datatype:string,name:Emp_role;datatype:string,name:Userlevel;datatype:int" />
+	<infoitem key="UD_Empreg" value="name:Employee_ID;datatype:int,name:Emp_firstname;datatype:string,name:Emp_lastname;datatype:string,name:Contact_no;datatype:int,name:Username;datatype:string,name:Password;datatype:string,name:Emp_role;datatype:string,name:Userlevel;datatype:int" />
+</info>

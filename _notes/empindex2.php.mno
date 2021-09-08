@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_booking" value="name:BookingID;datatype:int,name:custId;datatype:int,name:Firstname;datatype:blob,name:Lastname;datatype:blob,name:Party size;datatype:int,name:Table Type;datatype:string,name:Date seats are booked for;datatype:date,name:Comments;datatype:blob,name:timestamp;datatype:timestamp" />
+	<infoitem key="UD_index" value="name:Employee_ID;datatype:int,name:Emp_firstname;datatype:string,name:Emp_lastname;datatype:string,name:Contact_no;datatype:int,name:Username;datatype:string,name:Password;datatype:string,name:Emp_role;datatype:string,name:Userlevel;datatype:int" />
+	<infoitem key="UD_customers" value="name:Customer_ID;datatype:int,name:Cust_firstname;datatype:string,name:Cust_lastname;datatype:string,name:Contact_no;datatype:int,name:Username;datatype:string,name:Password;datatype:string,name:Address;datatype:blob" />
+	<infoitem key="UD_employee" value="name:Employee_ID;datatype:int,name:Emp_firstname;datatype:string,name:Emp_lastname;datatype:string,name:Contact_no;datatype:int,name:Username;datatype:string,name:Password;datatype:string,name:Emp_role;datatype:string,name:Userlevel;datatype:int" />
+	<infoitem key="UD_breakfast" value="name:Breakfast_ID;datatype:int,name:Customer_ID;datatype:int,name:Party_size;datatype:int,name:Date;datatype:date,name:Time;datatype:timestamp,name:Comment;datatype:string" />
+	<infoitem key="UD_customer" value="name:Customer_ID;datatype:int,name:Cust_firstname;datatype:string,name:Cust_lastname;datatype:string,name:Contact_no;datatype:int,name:Username;datatype:string,name:Password;datatype:string,name:Address;datatype:blob" />
+	<infoitem key="UD_Feeds" value="name:Name;datatype:int,name:Email;datatype:int,name:Telephone_No;datatype:int,name:Message;datatype:int,name:Timestamp;datatype:timestamp" />
+	<infoitem key="UD_Lunch" value="name:Lucnch_ID;datatype:int,name:Customer_ID;datatype:int,name:Party_size;datatype:int,name:Date;datatype:date,name:Time;datatype:timestamp,name:Comment;datatype:string" />
+	<infoitem key="UD_Dinner" value="name:Dinner_ID;datatype:int,name:Customer_ID;datatype:int,name:Party_size;datatype:int,name:Date;datatype:date,name:Time;datatype:timestamp,name:Comment;datatype:string" />
+</info>

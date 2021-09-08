@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Index" value="name:Employee_ID;datatype:int,name:Emp_firstname;datatype:string,name:Emp_lastname;datatype:string,name:Contact_no;datatype:int,name:Username;datatype:string,name:Email;datatype:string,name:Password;datatype:string,name:Emp_role;datatype:string,name:Address;datatype:blob,name:Userlevel;datatype:int" />
+	<infoitem key="UD_Dinner" value="name:Dinner_ID;datatype:int,name:Customer_ID;datatype:int,name:Party_size;datatype:int,name:Date;datatype:date,name:Time;datatype:timestamp,name:Comment;datatype:string,name:Empoyee_ID;datatype:int" />
+</info>

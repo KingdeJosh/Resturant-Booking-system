@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_index" value="name:Employee_ID;datatype:int,name:Emp_firstname;datatype:string,name:Emp_lastname;datatype:string,name:Contact_no;datatype:int,name:Username;datatype:string,name:Password;datatype:string,name:Emp_role;datatype:string,name:Userlevel;datatype:int" />
+	<infoitem key="UD_customers" value="name:Customer_ID;datatype:int,name:Cust_firstname;datatype:string,name:Cust_lastname;datatype:string,name:Contact_no;datatype:int,name:Username;datatype:string,name:Password;datatype:string,name:Address;datatype:blob" />
+	<infoitem key="UD_employee" value="name:Employee_ID;datatype:int,name:Emp_firstname;datatype:string,name:Emp_lastname;datatype:string,name:Contact_no;datatype:int,name:Username;datatype:string,name:Password;datatype:string,name:Emp_role;datatype:string,name:Userlevel;datatype:int" />
+	<infoitem key="UD_booking" value="name:Booking_ID;datatype:int,name:Cust_ID;datatype:int,name:Table_no;datatype:int,name:Item_ID;datatype:int,name:Date;datatype:date,name:Time;datatype:time,name:Comments;datatype:string" />
+	<infoitem key="UD_comments" value="name:comment_id;datatype:int,name:Name;datatype:string,name:Email;datatype:string,name:comments;datatype:string,name:Topic;datatype:string" />
+	<infoitem key="UD_breakfast" value="name:Breakfast_ID;datatype:int,name:Customer_ID;datatype:int,name:Party_size;datatype:int,name:Date;datatype:date,name:Time;datatype:timestamp,name:Comment;datatype:string" />
+	<infoitem key="UD_feeds" value="name:Name;datatype:blob,name:Email;datatype:blob,name:Telephone_No;datatype:int,name:Message;datatype:blob,name:Timestamp;datatype:timestamp" />
+</info>

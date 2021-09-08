@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Index" value="name:Customer_ID;datatype:int,name:Cust_firstname;datatype:string,name:Cust_lastname;datatype:string,name:Contact_no;datatype:int,name:Username;datatype:string,name:Password;datatype:string,name:Address;datatype:blob" />
+	<infoitem key="UD_Removebooking" value="name:Employee_ID;datatype:int,name:Emp_firstname;datatype:string,name:Emp_lastname;datatype:string,name:Contact_no;datatype:int,name:Username;datatype:string,name:Email;datatype:string,name:Password;datatype:string,name:Emp_role;datatype:string,name:Address;datatype:blob,name:Userlevel;datatype:int" />
+	<infoitem key="UD_Breakfast" value="name:Breakfast_ID;datatype:int,name:Customer_ID;datatype:int,name:Party_size;datatype:int,name:Adults;datatype:int,name:Children;datatype:int,name:Date;datatype:date,name:Time;datatype:timestamp,name:Comment;datatype:string,name:Bill;datatype:int" />
+	<infoitem key="UD_Lunch" value="name:Lucnch_ID;datatype:int,name:Customer_ID;datatype:int,name:Party_size;datatype:int,name:Adults;datatype:string,name:Children;datatype:string,name:Date;datatype:date,name:Time;datatype:timestamp,name:Comment;datatype:string,name:Bill;datatype:int" />
+	<infoitem key="UD_Dinner" value="name:Dinner_ID;datatype:int,name:Customer_ID;datatype:int,name:Party_size;datatype:int,name:Adults;datatype:string,name:Children;datatype:string,name:Date;datatype:date,name:Time;datatype:timestamp,name:Comment;datatype:string,name:Empoyee_ID;datatype:int,name:Bill;datatype:int" />
+</info>
